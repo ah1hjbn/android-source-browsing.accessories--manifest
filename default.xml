@@ -15,4 +15,4 @@
   <project path="external/ide" name="platform/external/arduino-ide" />
   <project path="external/toolchain" name="platform/external/codesourcery" />
 
-</manifest>
+</manif
